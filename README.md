@@ -1,7 +1,9 @@
-#Stopwatch App
+#Stop_watch App
+
 A simple and stylish stopwatch application built with HTML, CSS, and JavaScript.
 
-Features
+#Features
+
 Start Timer: Initiates the timer, starting from 0 or resumes from the last stopped point.
 Stop Timer: Halts the running timer.
 Reset Button: Stops the timer (if running) and resets it to 0.
@@ -14,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/vishkharat/stopwatch-/edit/main/README.md
+git clone https://github.com/roh-ann23/Stop_Watch
 Open index.html in a web browser.
 
 Use the "Start," "Stop," and "Reset" buttons to control the stopwatch.
@@ -22,7 +24,8 @@ Use the "Start," "Stop," and "Reset" buttons to control the stopwatch.
 Styling
 The app features a clean and modern design with color gradients and appropriate font styles for readability. The layout is responsive and adjusts well to different screen sizes.
 
-Code Structure
+#Code Structure
+
 index.html: Contains the structure of the stopwatch app.
 style.css: Provides styles for the app elements.
 script.js: Implements the stopwatch functionality using vanilla JavaScript.
